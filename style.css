@@ -8,7 +8,7 @@ body {
 h1 {
     color: #FFBFAE;
     text-align: center;
-     font-family: monoid;
+    font-family: monoid;
 }
 
 h2 {
@@ -18,8 +18,8 @@ h2 {
 }
 
 img {
- width: 300px;
-    align: center;
+     width: 300px;
+     align: center;
      border-radius: 700px;
 }
 
