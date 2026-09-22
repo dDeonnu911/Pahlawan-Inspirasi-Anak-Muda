@@ -8,19 +8,23 @@ body {
 h1 {
     color: #FFBFAE;
     text-align: center;
+     font-family: monoid;
 }
 
 h2 {
     text-align: center;
     color: #FFF3B0
+    font-family: mononoki;
 }
 
 img {
  width: 300px;
     align: center;
+     border-radius: 700px;
 }
 
 p {
   text-align: center;
   color: #805AD5;
+  font-family: Sudo;
 }
