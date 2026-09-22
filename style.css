@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color:crimson;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+ width: 300px;
+}
+
+p {
+  text-align: center;
+}
