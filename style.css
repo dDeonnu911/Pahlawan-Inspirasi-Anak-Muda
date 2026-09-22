@@ -1,17 +1,18 @@
 body {
-    background-color: #ffffff;
+    background-color: #FFD6E0;
     font-family: sans-serif;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
-    color:crimson;
+    color: #FFBFAE;
     text-align: center;
 }
 
 h2 {
     text-align: center;
+    color: #FFF3B0
 }
 
 img {
@@ -21,4 +22,5 @@ img {
 
 p {
   text-align: center;
+  color: #CDEFD3;
 }
